@@ -3,6 +3,7 @@
 ## KELAS : TI.20.A.1
 
 ### Berikut adalah API yang saya gunakan : [Link](https://newsapi.org/v2/top-headlines?country=id)
+Api ini mengenai berita terbaru yang ada di indonesia
 
 berikut output-nya :
 <p align="center">
